@@ -12,19 +12,19 @@
                         "calories": "250 kcal",
                         "weight": "200g",
                         "price": "$12.99",
-                        "image": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
+                        "image": "https://www.sainsburysmagazine.co.uk/uploads/media/1800x1800/09/7699-Margherita-pizza.jpg?v=1-0"
                     },
                     {
                         "id": "f0002",
-                        "name": "Pizza Margherita",
+                        "name": "Mexxican Pizza",
                         "calories": "250 kcal",
                         "weight": "200g",
                         "price": "$12.99",
-                        "image": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
+                        "image": "https://www.chilipeppermadness.com/wp-content/uploads/2024/02/Mexican-Pizza-Recipe-SQ.jpg"
                     },
                     {
                         "id": "f0003",
-                        "name": "Pizza Margherita",
+                        "name": "Italian Pizza",
                         "calories": "250 kcal",
                         "weight": "200g",
                         "price": "$12.99",
@@ -32,27 +32,27 @@
                     },
                     {
                         "id": "f0004",
-                        "name": "Pizza Margherita",
+                        "name": "Chese Pizza",
                         "calories": "250 kcal",
                         "weight": "200g",
                         "price": "$12.99",
-                        "image": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
+                        "image": "https://pizzapro.in/cdn/shop/articles/four-cheese-pizza-pizza-pro.jpg?v=1645080271"
                     },
                     {
                         "id": "f0005",
-                        "name": "Pizza Margherita",
+                        "name": "Peperoni Pizza",
                         "calories": "250 kcal",
                         "weight": "200g",
                         "price": "$12.99",
-                        "image": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHgW2jmjx0mjT2bJkDyp8JwSGdAhyuyeWKlA&s"
                     },
                     {
                         "id": "f0006",
-                        "name": "Pizza Margherita",
+                        "name": "Spicy Pizza",
                         "calories": "250 kcal",
                         "weight": "200g",
                         "price": "$12.99",
-                        "image": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
+                        "image": "https://www.shutterstock.com/shutterstock/photos/2317231165/display_1500/stock-photo-pizza-with-salami-sausage-mozzarella-cheese-mushrooms-black-olives-spicy-tomato-sauce-and-2317231165.jpg"
                     }
                 ]
             },
@@ -65,15 +65,15 @@
                         "calories": "300 kcal",
                         "weight": "150g",
                         "price": "$8.99",
-                        "image": "https://www.simplyrecipes.com/thmb/UEELzo2xtrfJIdJVGts-fUn-nzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Cheeseburger-LEAD-2-4bb78781a5ef489c8cf492fc3e345f85.jpg"
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6RjLeVG3RUwZUoj7EnvewJhwG_AthW3ygQ&s"
                     },
                     {
                         "id": "f0008",
-                        "name": "Bacon Burger",
+                        "name": "Beef Burger",
                         "calories": "450 kcal",
                         "weight": "180g",
                         "price": "$10.99",
-                        "image": "https://www.simplyrecipes.com/thmb/WzTxmldxPZzvNx3el-GNCD_b9PY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Bacon-Burger-LEAD-2-d740927e7a02407b9fd9a04a1dc8a8f7.jpg"
+                        "image": "https://groundbeefrecipes.com/wp-content/uploads/avocado-burgers-6.jpg"
                     }
                 ]
             },
@@ -86,7 +86,7 @@
                         "calories": "400 kcal",
                         "weight": "250g",
                         "price": "$11.99",
-                        "image": "https://www.simplyrecipes.com/thmb/N_yWY1xRnm4eYboDTljkWTHNQgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-BBQ-Chicken-Wings-LEAD-2-391e3c5d1a8b4eaab026730b1c51ea65.jpg"
+                        "image": "https://www.loveandotherspices.com/wp-content/uploads/2023/06/air-fryer-bbq-chicken-wings-featured.jpg"
                     },
                     {
                         "id": "f0010",
@@ -94,7 +94,7 @@
                         "calories": "600 kcal",
                         "weight": "300g",
                         "price": "$15.99",
-                        "image": "https://www.simplyrecipes.com/thmb/Mo5ZpO-hCBBlQye3Lb6MRG1Q3Xw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-BBQ-Ribs-LEAD-2-cd4e2db362f144dd8ac6c7de0c3bde9c.jpg"
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZs0N1aA2WlzFINAZa2NRme1sk36AKSLum1w&s"
                     }
                 ]
             },
@@ -107,7 +107,7 @@
                         "calories": "350 kcal",
                         "weight": "200g",
                         "price": "$13.99",
-                        "image": "https://www.simplyrecipes.com/thmb/3p80w2b6y9RzVwhPzh7UFDlDfhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Spaghetti-Carbonara-LEAD-4-f5d34779dbda4ab68b09e6a7dcb7f53e.jpg"
+                        "image": "https://www.sipandfeast.com/wp-content/uploads/2022/09/spaghetti-carbonara-recipe-snippet.jpg"
                     },
                     {
                         "id": "f0012",
@@ -115,7 +115,7 @@
                         "calories": "400 kcal",
                         "weight": "220g",
                         "price": "$14.99",
-                        "image": "https://www.simplyrecipes.com/thmb/OlJjtMumV0ipaa6dsg3Ck-KkXzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Fettuccine-Alfredo-LEAD-5-2a37a5fa02c1410e8fe43c51913091e2.jpg"
+                        "image": "https://images.themodernproper.com/billowy-turkey/production/posts/ChickenFettuccineAlfredo_11.jpg?w=960&h=960&q=82&fm=jpg&fit=crop&dm=1675190172&s=89dafc9de3618b7673be90fa09af4044"
                     }
                 ]
             },
@@ -128,7 +128,7 @@
                         "calories": "500 kcal",
                         "weight": "150g",
                         "price": "$7.99",
-                        "image": "https://www.simplyrecipes.com/thmb/2xzYAsuKADZoxk0h2cZYgADGHD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Chocolate-Cake-LEAD-2-fd843d2f35dc4b17909b2e5af7f87fd0.jpg"
+                        "image": "https://bakewithshivesh.com/wp-content/uploads/2022/02/IMG_5391-scaled.jpg"
                     },
                     {
                         "id": "f0014",
@@ -136,7 +136,7 @@
                         "calories": "400 kcal",
                         "weight": "200g",
                         "price": "$6.99",
-                        "image": "https://www.simplyrecipes.com/thmb/ZY4o3NhKAdY2ErwBCEtThvRl5tM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Apple-Pie-LEAD-5-272c29019fcd4e7397c8652f9ef7e7c5.jpg"
+                        "image": "https://www.rainbownourishments.com/wp-content/uploads/2021/08/best-vegan-apple-pie-1.jpg"
                     }
                 ]
             },
@@ -149,7 +149,7 @@
                         "calories": "150 kcal",
                         "weight": "250ml",
                         "price": "$3.99",
-                        "image": "https://www.simplyrecipes.com/thmb/JHroPI6TJoebev_yH6I0M6RBX3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Lemonade-LEAD-3-92c2b4b6b2fa4726b32acb089bd64cb8.jpg"
+                        "image": "https://www.jocooks.com/wp-content/uploads/2023/05/lemonade-1-28.jpg"
                     },
                     {
                         "id": "f0016",
@@ -157,7 +157,7 @@
                         "calories": "120 kcal",
                         "weight": "300ml",
                         "price": "$2.99",
-                        "image": "https://www.simplyrecipes.com/thmb/nXWyhDgucblXSTmrIt1cQQnXXJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Iced-Tea-LEAD-5-502f18f15102445b8b90ec79d7438e0f.jpg"
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbi6ese6_Hox4qoOCaPvapTCXcuwEOhInqDA&s"
                     }
                 ]
             },
@@ -170,7 +170,7 @@
                         "calories": "300 kcal",
                         "weight": "100g",
                         "price": "$4.99",
-                        "image": "https://www.simplyrecipes.com/thmb/LkI7GsJjX5mbZvn1G9Qs6Wz7uU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-French-Fries-LEAD-4-a5cb39800b9f42b5b4d51c4f4b4c84a2.jpg"
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-75GWA0-SENyOmsCy8RCoy5mQq7YenRLSkw&s"
                     },
                     {
                         "id": "f0018",
@@ -178,7 +178,7 @@
                         "calories": "250 kcal",
                         "weight": "120g",
                         "price": "$5.99",
-                        "image": "https://www.simplyrecipes.com/thmb/TpM0ofB3UT-P29xxHfJ7ms7F8C8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Onion-Rings-LEAD-4-569b0624c9c64b58b16405f23f3a00e5.jpg"
+                        "image": "https://houseofnasheats.com/wp-content/uploads/2023/03/Homemade-Onion-Rings-Square-1.jpg"
                     }
                 ]
             }
