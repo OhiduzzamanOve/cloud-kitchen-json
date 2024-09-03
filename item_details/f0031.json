@@ -29,14 +29,20 @@
             "reviews": [
                 {
                     "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/28003-1710080339.jpg?lm=1",
-                    "name": "John Doe",
+                    "name": "Messi",
                     "details": "Great salad! Fresh and tasty.",
                     "ratings": 5.0
                 },
                 {
                     "imageUrl": "https://img.a.transfermarkt.technology/portrait/big/8198-1694609670.jpg?lm=1",
-                    "name": "Jane Smith",
+                    "name": "Ronaldo",
                     "details": "Loved the grilled chicken, but the dressing was a bit too tangy for my taste.",
+                    "ratings": 4.5
+                },
+                {
+                    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfC5TPxkYkOZGUqB4g7UTuasWX1hs38X5uw&s",
+                    "name": "Neymar",
+                    "details": "Awesome taste. Samba La La",
                     "ratings": 4.0
                 }
             ]
